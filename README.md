@@ -65,4 +65,4 @@ You can help improve this repository by reporting broken links, suggesting impro
 
 ## Do you thing this project helpfull?
 
-**Donate to supported contributors via Litecoin: LMS5oRbidSNixSG42ev54QXm5nSs2rteM1**
+**Donate to supported contributors via Litecoin:** LMS5oRbidSNixSG42ev54QXm5nSs2rteM1
