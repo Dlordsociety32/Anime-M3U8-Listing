@@ -61,6 +61,8 @@ You can help improve this repository by reporting broken links, suggesting impro
 
 ⭐ **If you find this repository useful, consider giving it a star on GitHub!**
 
+---
+
 ## Do you thing this project helpfull?
 
 **Donate to supported contributors via Litecoin: LMS5oRbidSNixSG42ev54QXm5nSs2rteM1**
