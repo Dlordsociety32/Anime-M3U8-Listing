@@ -7,7 +7,7 @@ This repository aims to simplify anime playlist management and improve compatibi
 ## Features
 
 - **Anime Playlist Collection** – Organized anime streaming links in M3U8 format.
-- **HLS Streaming Support** – Compatible with players that support HTTP Live Streaming.
+- **HSLS Streaming Support** – Compatible with players that support HTTPS Live Streaming.
 - **Cross-Platform Compatibility** – Accessible on Windows, macOS, Linux, Android, and iOS using compatible media players.
 - **Easy Playlist Management** – Simple structure for adding, updating, and maintaining anime streaming sources.
 - **Regular Updates** – Playlist links may be updated based on availability.
